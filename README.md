@@ -541,7 +541,7 @@ Jest is an automated test-runner for JavaScript.
 
   
 
-To run your tests, open your terminal at the root directory of the lab, run `npm install` to install your dependencies and `npm run test:watch` to run the tests and generate the `lab-solution.html` file.
+To run your tests, open your terminal at the root directory of the lab, run `` to install your dependencies and `npm run test:watch` to run the tests and generate the `lab-solution.html` file.
 
   
 
@@ -590,3 +590,4 @@ Note that **you don't need to execute the functions yourself**, the tests are re
   
 
 **Happy coding!** :heart:
+npm install
